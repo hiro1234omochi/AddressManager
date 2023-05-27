@@ -1,0 +1,5 @@
+name: AddressManager
+version: '${version}'
+main: work.utakatanet.addressmanager.AddressManager
+api-version: 1.19
+author: omochi
